@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CarPoolStudents</string>
+    <string name="get_ride">Get Ride</string>
+    <string name="offer_ride">Offer Ride</string>
+    <string name="ride_history"> Ride History</string>
+    <string name="notification">Notification</string>
+    <string name="logout">logout</string>
+</resources>
